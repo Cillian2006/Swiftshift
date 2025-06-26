@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/SwiftShift.iml" filepath="$PROJECT_DIR$/SwiftShift.iml" />
+      <module fileurl="file://$PROJECT_DIR$/swiftshift.iml" filepath="$PROJECT_DIR$/swiftshift.iml" />
     </modules>
   </component>
 </project>
